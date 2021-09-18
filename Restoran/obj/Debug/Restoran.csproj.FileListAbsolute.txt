@@ -1,0 +1,10 @@
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\obj\Debug\Restoran.csproj.GenerateResource.cache
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\bin\Debug\Restoran.exe
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\bin\Debug\Restoran.pdb
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\obj\Debug\Restoran.exe
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\obj\Debug\Restoran.pdb
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\obj\Debug\Restoran.Form1.resources
+C:\Users\Tufyak\Desktop\Education\3 курс\OOP\Restoran\obj\Debug\Restoran.csprojAssemblyReference.cache
